@@ -1,2 +1,2 @@
-# MultidimensionalArraysExercise
-MultidimensionalArraysExercise
+# MultidimensionalArraysLab
+MultidimensionalArraysLab
